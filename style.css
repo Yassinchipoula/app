@@ -1,0 +1,29 @@
+*{
+    margin: 0px;
+}
+header h2{
+    background-color:red;
+    color: white;
+    padding:10px 0px 10px 15px ;
+}
+body{
+    background: url(Icon.png);
+
+    background-size: 20%;
+    background-repeat: no-repeat;
+    background-position-x: 95%;
+    background-position-y:10%; 
+    background-attachment: fixed;
+    }
+  
+article {
+    width: 70%;
+    margin : 2%;
+
+}
+article h3{
+    background: rgb(50, 44, 127);
+    color: white;
+    padding: 12px;
+
+}
